@@ -7,7 +7,7 @@ My main focus is on **mobile and full-stack development**, and I enjoy building 
 🌱 Always eager to learn new technologies and improve as a developer.  
 
 ### 🔧 Tech Stack
-- Frontend: React, React Native, TypeScript, JavaScript, (Just started to learn SwiftUI)
+- Frontend: React, React Native, TypeScript, JavaScript, Next.js
 - Backend: FastAPI, Spring Boot, Node.js / Express  
 - Databases: SQL  
 - Tools: Git, Docker, Linux, macOS, VSCode, XCode
