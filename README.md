@@ -10,7 +10,7 @@ My main focus is on **mobile and full-stack development**, and I enjoy building 
 - Frontend: React, React Native, TypeScript, JavaScript, Next.js
 - Backend: FastAPI, Spring Boot, Node.js / Express  
 - Databases: SQL  
-- Tools: Git, Docker, Linux, macOS, VSCode, XCode
+- Tools: Git, Docker, Linux, macOS, VSCode, XCode, Codex
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/verneri-lopperi-881652254/)
